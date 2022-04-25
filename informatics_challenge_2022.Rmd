@@ -7,7 +7,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## How the informatics challenge will work
+### How the informatics challenge will work
 
 Welcome to the 2022 annual informatics challenge!
 
